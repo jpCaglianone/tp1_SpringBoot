@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ProjetoTP1
+
+server:
+  port: 8089
